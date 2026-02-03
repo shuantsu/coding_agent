@@ -19,7 +19,7 @@ O orquestrador lê `prompt.md` (seus objetivos), executa desenvolvimento increme
 ## Uso
 
 ```bash
-kiro --system system_prompt.md --input "Execute uma iteração. Leia prompt.md, context.md e agents/. Implemente, teste e atualize os arquivos."
+kiro-cli --system system_prompt.md --input "Execute uma iteração. Leia prompt.md, context.md e agents/. Implemente, teste e atualize os arquivos."
 ```
 
 ## Fluxo de Iteração
